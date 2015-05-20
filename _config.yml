@@ -1,0 +1,11 @@
+# Site settings
+title: Coder’s Block
+email: hmillison@gmail.com
+description: Read along as I chronicle my journey of constant improvement during the transition from college to full time Software Engineer.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://hmillie.io" # the base hostname & protocol for your site
+twitter_username: hmillison
+github_username:  hmillison
+
+# Build settings
+markdown: kramdown
