@@ -329,6 +329,13 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.photo {
+  display: block;
+  margin: auto;
+  height: 140px;
+  width: 145px;
+  border-radius: 100px; }
+
 /**
  * Syntax highlighting styles
  */
