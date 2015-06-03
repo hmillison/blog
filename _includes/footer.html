@@ -10,8 +10,11 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><p class="text">{{ site.description }}</p></li>
         </ul>
       </div>
+
+
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
@@ -47,7 +50,14 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <h3>Blogroll</h3>
+        <ul>
+        {% for link in site.blogroll %}
+          <li>
+            <a href="{{link.url}}">{{link.name}}</a>
+          </li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
 

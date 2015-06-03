@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img class="photo" src="/blog/images/hmillison_headshot2.jpg" alt="A picture of my beautiful face" title="A picture of my beautiful face">
+<img class="headshot" src="/blog/images/hmillison_headshot2.jpg" alt="A picture of my beautiful face" title="A picture of my beautiful face">
 
 
 ## Who Am I?

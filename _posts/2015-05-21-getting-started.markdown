@@ -2,9 +2,10 @@
 layout: post
 title:  "Getting Started"
 date:   2015-05-21 11:01:57
-categories: The Journey
+categories:
 ---
 
+<img class="photo" id="react-logo" src="/blog/images/Reactjs_logo.png" alt="A picture of my beautiful face" title="A picture of my beautiful face">
 I often hear people talk about how they want to learn how to program, but invariably they give some reason for why they can’t do it. Whenever I hear this, I want to shake them and say, “YOU CAN TEACH YOURSELF!” Programming and software development as a whole has an assortment of resources online due to the fact that people who know how to do it are always on their computer. It seems that programming is slowly becoming a skill that could be essential to our work as many other subjects that are taught in high school. In this current era where millennials struggle to find gainful employment while software engineers are commanding absurd salaries in Silicon Valley, it is fortunate that programming is something that can be easily self-taught.
 
 Unfortunately, programming is not something in a book that you can just reach and suddenly you are the next Mark Zuckerberg. It requires you to spend time trying to create things and going through the frustration of getting everything to work as expected. This time spent googling away is essential to becoming a skilled software developer. I have learned after many hours of fruitlessly searching for help to a problem that I had in a project that the answer was right under my nose the whole time. This road to learning how to ask the right questions when confused is one of the greatest skills to acquire in the confusing road of learning to program.

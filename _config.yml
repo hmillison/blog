@@ -6,6 +6,18 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://hmillie.io" # the base hostname & protocol for your site
 twitter_username: hmillison
 github_username:  hmillison
+blogroll:
+    - name: 'TechCrunch'
+      url: http://techcrunch.com/
+    - name: DailyJS
+      url: http://dailyjs.com/
+    - name: High Scalability
+      url: http://highscalability.com/
+    - name: Kottke
+      url: http://kottke.org/
+    - name: Ars Technica
+      url: http://arstechnica.com/
+
 
 # Build settings
 markdown: kramdown
