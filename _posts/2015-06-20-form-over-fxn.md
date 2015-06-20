@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Form over Function"
-date:   2015-06-18 10:01:57
+date:   2015-06-20 12:01:57
 categories:
 ---
 
